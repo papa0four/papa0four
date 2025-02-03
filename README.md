@@ -22,7 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=papa0four&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/papa0four">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papa0four&layout=compact&theme=github_dark&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papa0four&layout=compact&theme=github_dark&langs_count=8&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </a>
 
 
