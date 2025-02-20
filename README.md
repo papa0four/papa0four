@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Lua-informational?style=for-the-badge&logo=lua&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Makefile-informational?style=for-the-badge&logo=GNU&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=windows-powershell&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
