@@ -2,6 +2,7 @@
 ## 🔧 Technologies
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)
 ![](https://img.shields.io/badge/Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=blue&labelColor=black)
@@ -10,7 +11,7 @@
 ![](https://img.shields.io/badge/Lua-informational?style=for-the-badge&logo=lua&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Makefile-informational?style=for-the-badge&logo=GNU&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=blue&labelColor=black)
-![](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=windows-powershell&logoColor=white&color=blue&labelColor=black)
+![](https://img.shields.io/badge/PowerShell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/Neovim-informational?style=for-the-badge&logo=neovim&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
