@@ -19,7 +19,7 @@
 
 
 <a href="https://github.com/papa0four">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=papa0four&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=papa0four&show_icons=true&theme=github_dark&include_all_commits=true" />
 </a>
 <a href="https://github.com/papa0four">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papa0four&layout=compact&theme=github_dark&langs_count=8&size_weight=0.5&count_weight=0.5&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
