@@ -22,5 +22,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=papa0four&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/papa0four">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papa0four&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide=javascript,HTML,PostScript&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=papa0four&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide=javascript,HTML,PostScript,CSS&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
 </a>
