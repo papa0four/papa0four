@@ -2,8 +2,6 @@
 ## 🔧 Technologies
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Golang-informational?style=for-the-badge&logo=go&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/C-informational?style=for-the-badge&logo=c&logoColor=white&color=blue&labelColor=black)
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=blue&labelColor=black)
