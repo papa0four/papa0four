@@ -20,7 +20,10 @@
 ![](https://img.shields.io/badge/Vim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 
-
+![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
 <a href="https://github.com/papa0four">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=papa0four&theme=tokyonight" />
