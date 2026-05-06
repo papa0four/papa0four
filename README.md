@@ -21,8 +21,8 @@
 ![](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white)
 
 <a href="https://github.com/papa0four">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=papa0four&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-five-rosy-89.vercel.app/api?username=papa0four&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/papa0four">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=papa0four&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-five-rosy-89.vercel.app/api/top-langs/?username=papa0four&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide=javascript,HTML,PostScript,CSS&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" />
 </a>
