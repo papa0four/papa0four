@@ -24,5 +24,5 @@
   <img align="center" src="https://github-readme-stats-five-rosy-89.vercel.app/api?username=papa0four&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://github.com/papa0four">
-  <img align="center" src="https://github-readme-stats-five-rosy-89.vercel.app/api/top-langs/?username=papa0four&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&hide=javascript,HTML,PostScript,CSS&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&count_private=true" />
+  <img align="center" src="https://github-readme-stats-five-rosy-89.vercel.app/api/top-langs/?username=papa0four&layout=compact&theme=tokyonight&langs_count=10&size_weight=0.5&count_weight=0.5&hide=javascript,HTML,PostScript,CSS&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&count_private=true&include_all_commits=true" />
 </a>
